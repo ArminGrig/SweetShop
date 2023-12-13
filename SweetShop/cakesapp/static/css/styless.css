@@ -1,0 +1,38 @@
+
+#main{
+    width: 1500px;
+    height: 1000px;
+
+}
+#header{
+    width: 1500px;
+    height: 200px;
+
+}
+#body{
+     width: 1300px;
+    height: 700px;
+
+}
+#footer{
+     width: 1500px;
+    height: 100px;
+    background-color: black;
+}
+
+#logo{
+    width: 200px;
+    height: 200px;
+    -webkit-box-reflect:right;
+
+}
+img {
+    width: 500px;
+    height: 700px;
+}
+
+p{
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
